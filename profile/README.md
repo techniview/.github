@@ -55,7 +55,7 @@ Communication, Leadership, Teamwork, Problem Solving, Time Management
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/SippyR?v=4&s=200" width="150" height="150" style="border-radius: 50%;" alt="Ryan's Headshot">
+<img src="https://avatars.githubusercontent.com/u/54917000?v=4&size=200" width="150" height="150" style="border-radius: 50%;" alt="Ryan's Headshot">
 
 ### Ryan Sippy
 
