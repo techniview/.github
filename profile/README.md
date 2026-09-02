@@ -27,7 +27,7 @@ Many people getting a degree in CS don't know how to do a LeetCode-style problem
 ### Derek Corniello
 
 #### Biography:
-5th year at the University of Cincinnati studying CS and SWE (via ACCEND). Interests include distributed systems, compilers, and programming languages. I have a passion for building complex systems, interesting backends, and tools that make developers' lives easier.
+5th year at the University of Cincinnati studying CS and SWE (via ACCEND). Interests include distributed systems, compilers, and programming languages. I have a passion for building complex systems, interesting backends, and tools that make developers' and CS Student's lives easier.
 
 #### Contact Information and Links:
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4=)](mailto:corniedj@mail.uc.edu)
@@ -40,9 +40,13 @@ Many people getting a degree in CS don't know how to do a LeetCode-style problem
 
 #### Experience:
 - ENED TA (Fall 2023-Present)
+    - Experience with: Teaching, Mentoring, Leadership and Management.
 - Siemens DISW: SWE Intern (Spring 2023-Fall 2025)
+    - Experience with: Python data pipelines and extractions, AI tooling in Python.
 - Fifth Third Bank: SWE Intern (Spring 2026)
+    - Experience with: Leading standups, AWS, Cloud architecture and system design, Node.js.
 - LinkedIn: SWE Intern (Summer 2026)
+    - Experience with: Pydantic type models, DSL parsing and types, gRPC services and error reporting.
 
 Also check out [muxlang](https://github.com/muxlang), [hunch](https://github.com/DerekCorniello/hunch), [dia](https://github.com/DerekCorniello/dia), and my other links above for more of my work!
 
@@ -52,6 +56,9 @@ Also check out [muxlang](https://github.com/muxlang), [hunch](https://github.com
 
 ##### Soft Skills:
 Communication, Leadership, Teamwork, Problem Solving, Time Management
+
+##### Project Interests:
+Looking for a capstone project with high impact for others! I love designing systems and such for complex tools and architecture, so anywhere where that would be helpful I would be interested in.
 
 ---
 
