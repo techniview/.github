@@ -1,5 +1,7 @@
 # TechniView
 
+<img src="https://github.com/techniview/.github/blob/main/TechniView%20Logo.png" width="150" height="150" style="border-radius: 50%;" alt="TechniView Logo">
+
 TechniView is an LMS System that ties together LeetCode-style technical interview questions with a learning management system. It allows users to practice coding problems, track their progress, and learn new concepts in a structured way.
 
 TechniView is designed to bridge the gap between learning and practical application. By combining a structured learning management system with a robust coding practice platform, it provides students with the tools they need to succeed in technical interviews and beyond. Whether you're a student looking to improve your coding skills or an instructor aiming to provide a comprehensive learning experience, TechniView has you covered.
@@ -90,27 +92,6 @@ Problem Solving, Communication, Public Speaking, Critical Thinking
 <img src="https://avatars.githubusercontent.com/u/youruseridhere?v=4&s=200" width="150" height="150" style="border-radius: 50%;" alt="Jason's Headshot">
 
 ### Jason Bellerjeau
-
-#### Biography:
-...
-
-#### Contact Information and Links:
-...
-
-#### Experience:
-...
-
-##### Technical Skills:
-...
-
-##### Soft Skills:
-...
-
----
-
-<img src="https://avatars.githubusercontent.com/u/youruseridhere?v=4&s=200" width="150" height="150" style="border-radius: 50%;" alt="Jace's Headshot">
-
-### Jace Shubert
 
 #### Biography:
 ...
