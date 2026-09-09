@@ -89,25 +89,73 @@ Problem Solving, Communication, Public Speaking, Critical Thinking
 
 ---
 
-<img src="https://avatars.githubusercontent.com/u/youruseridhere?v=4&s=200" width="150" height="150" style="border-radius: 50%;" alt="Jason's Headshot">
 
-### Jason Bellerjeau
-
-#### Biography:
-...
-
-#### Contact Information and Links:
-...
-
-#### Experience:
-...
-
-##### Technical Skills:
-...
-
-##### Soft Skills:
-...
-
+# Jason Bellerjeau
+ 
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/327205504?s=400&u=08bb28ddb721c41b4e4c6b45feb72295865aefb8&v=4" width="150" style="border-radius: 50%;" alt="Jason Bellerjeau" />
+</p>
+## Contact
+ 
+- **Email:** jason.bellerjeau@gmail.com
+- **Phone:** (513) 939-7486
+- **Location:** West Chester, Ohio
+- **LinkedIn:** [linkedin.com/in/jason-bellerjeau](https://linkedin.com/in/jason-bellerjeau)
+- **GitHub:** [github.com/JasonBellerjeau](https://github.com/JasonBellerjeau)
+## Bio
+ 
+CS student interested in problem solving and front end software development.
+ 
+## Education
+ 
+**Bachelor of Science, Computer Science**
+University of Cincinnati, Cincinnati, OH
+Expected Graduation: May 2027
+ 
+Relevant coursework: Design and Analysis of Algorithms, Programming Languages, Database, Computer Science Principles, Game Design, Data Structures, Discrete Structures, Artificial Intelligence, Computer Networks, Software Engineering
+ 
+## Experience
+ 
+### Software Developer, Siemens, Milford, OH
+**August 2025 to December 2025, May 2026 to August 2026**
+ 
+- Contributed to the development of Teamcenter's Active Workspace, implementing new features in JavaScript and collaborating within an agile team of around 14 developers
+- Resolved software defects and improved application stability by debugging through Visual Studio Code's debugger and through developer tools on various web browsers
+- Designed and implemented new features aimed at enhancing overall user experience and streamlining workflows within the application
+## Technical Projects
+ 
+### Video Game Project
+University of Cincinnati, Cincinnati, OH
+**May 2024 to August 2024**
+ 
+- Designed a video game's mechanics by researching what has been done and could be innovated on
+- Learned to use the Unreal Engine through online tutorials
+- Utilized a design document to show the process of making the game from start to finish
+### Board Game Project
+University of Cincinnati, Cincinnati, OH
+**January 2024 to March 2024**
+ 
+- Collaborated with a group of 4 others every 3 weeks to create a functional board game prototype
+- Ideated different elements of the board game using decision matrices
+- Revisited statistics about cards that were unbalanced after playtesting
+### Weight Management App
+University of Cincinnati, Cincinnati, OH
+**August 2023 to December 2023**
+ 
+- Developed a calorie management application utilizing Python and SQL
+- Acquired proficient skills in creating and managing SQL tables through comprehensive online coursework
+- Leveraged Agile project management methodologies to monitor project progress, assess milestones achieved, and determine remaining tasks
+### IoT Capstone
+Lakota West High School, West Chester, OH
+**August 2021 to May 2022**
+ 
+- Designed and developed interactive video games tailored to inspire career exploration among a youthful demographic
+- Presented game prototypes to a focus group of first graders and gathered input
+## Skills
+ 
+- **Computer:** Java, JavaScript, SQL, Python, HTML, C++
+- **Language:** Spanish (semi-fluent)
+- **Analytical:** Problem identification, analysis, and resolution; Agile project management
 ---
 
 <img src="https://avatars.githubusercontent.com/u/8715530?v=4" width="150" height="150" style="border-radius: 50%;" alt="Will's Headshot">
